@@ -40,3 +40,5 @@ In case this is not in-context enough, one could also try the https://www.sensik
 https://app.nos.nl/op3/stresstest-voor-je-adres/
 
 Natuurlijk kun je ook wegens houtrook bezwaar maken tegen WOZbeschikking
+
+https://berthub.eu/articles/posts/dutch-postcode-and-building-database/
