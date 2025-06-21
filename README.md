@@ -1,4 +1,4 @@
-# Overthere
+# GeoAugment
 
 User Interaction:
 - Physical addresses, coordinates or maps in any webpage you are merely a visitor of, can be enriched with location-based information of your current interests.
