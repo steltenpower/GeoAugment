@@ -42,3 +42,5 @@ https://app.nos.nl/op3/stresstest-voor-je-adres/
 Natuurlijk kun je ook wegens houtrook bezwaar maken tegen WOZbeschikking
 
 https://berthub.eu/articles/posts/dutch-postcode-and-building-database/
+
+checkdithuis.nl toont al wat gegevens aangaande gezondheid van de locatie
